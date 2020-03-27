@@ -1,0 +1,134 @@
+
+body{
+  margin: 0;
+font-family: 'Merienda', cursive;
+}
+.firstbox
+{
+
+  background-color: #E4F9F5 ;
+  margin-top: 0;
+
+
+  position: relative;
+  padding-top: 120px;
+
+}
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+
+}
+h1
+{
+  color: #66BFBF;
+margin-top: 0;
+width: 10%;
+}
+.middle-container{
+
+
+
+
+
+
+}
+.bottom-containe
+{
+
+
+}
+.tc
+{
+  position:absolute;
+right:300px;
+top:50px;
+}
+.lc
+{position:absolute;
+left:300px;
+top:280px;
+margin-top:0px;
+  margin-right: 300px;
+}
+.mountain
+{display:block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 40%;
+  height:20%;
+
+}
+.round{
+  display:block;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 100px;
+  margin-top: 30px;
+
+}
+.bluc{
+  text-decoration-color: #E4F9F5;
+}
+h2{
+color:  #66BFBF;
+font-family: 'Merienda', cursive;
+}
+h3
+{color:  #66BFBF;
+  font-family: 'Merienda', cursive;
+}
+.sec{
+  width: 25%;
+float: left;
+
+margin-right: 30px ;
+}
+.skill-row{
+  width: 50%;
+  margin:100px auto 100px auto;
+  text-align: left;
+}
+ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+li {
+  padding-left: 1em;
+  text-indent: -.7em;
+}
+
+li::before {
+  content: "• ";
+  color: red; /* or whatever color you prefer */
+}
+.lec{
+  width: 35%;
+  height:20%;
+float: right;
+
+margin-left: 30px ;
+}
+
+.seco{
+  position: absolute;
+  top:1800px;
+  left:800px;
+  margin-top: 30px;
+  width: 10%;
+  height:20%;
+  margin-left: 20px;
+}
+.meco
+{
+  position: absolute;
+  top:1800px;
+  left:600px;
+  margin-right: 40px;
+  margin-top: 30px;
+  width: 10%;
+  height:20%;
+}
